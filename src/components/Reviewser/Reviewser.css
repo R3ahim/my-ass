@@ -1,0 +1,10 @@
+.clinet-info{
+   display: flex;   
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   height: 200px;
+   background-color: blueviolet;
+   color: white;
+   
+}

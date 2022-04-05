@@ -1,0 +1,29 @@
+.comment-contianer{
+ width: 400px;
+ height: 300px;
+ background-color: whitesmoke;
+ border: 0.1px solid rgb(87, 120, 109);
+border-radius: 4px;
+ margin: 10px;
+ box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important
+ 
+}
+.comment-contianer img{
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.reviw-info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px 30px;
+}
+.reviw-info .cart-info{
+    margin: 5px;
+}
+.reviw-info p{
+    font-weight: bold;
+}

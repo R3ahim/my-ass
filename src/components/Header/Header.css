@@ -1,0 +1,19 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: azure;
+    width: 50%;
+    margin: 0 auto;
+    padding: 18px 20px;
+   border: 1px solid whitesmoke;
+   border-radius: 10px;
+}
+.nav-container a{
+    text-decoration: none;
+    margin-right: 9px;
+    font-size: 15px;
+    color: black;
+    font: 700;
+    
+}

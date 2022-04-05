@@ -1,0 +1,33 @@
+.home-contianer{
+    display: grid;
+    grid-template-columns: 3fr 1.6fr;
+    margin-top: 30px;
+}
+.text-contianer{
+    margin-left: 20px;
+   
+}
+.text-contianer h1{
+    font-size: 70px;
+    margin: 0;
+}
+.text-contianer .home-heading{
+    color: rgba(79, 13, 201, 0.988);
+}
+
+.btn-home{
+    padding: 14px 150px;
+    border-radius: 7px;
+    border: none;
+    background-color: aqua;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-home:hover{
+   background-color: rgb(39, 124, 199)
+}
+.client-contianer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
